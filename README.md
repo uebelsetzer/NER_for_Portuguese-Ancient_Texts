@@ -8,11 +8,12 @@ The folder "gold" contains the gold standard files used to evaluate the systems'
 Paper:
 ```
 @article{zilio2022named,
-  title={Named Entity Recognition Applied to Portuguese Texts from the XVIII Century},
-  author={Zilio, Leonardo and Finatto, Maria Jos{\'e} B. and Vieira, Renata},
-  book={Proceedings of the Second Workshop on Digital Humanities and Natural Language Processing (2nd DHandNLP 2022)},
-  pages={1--10},
+  title={Named Entity Recognition Applied to {P}ortuguese Texts from the {XVIII} Century},
+  author={Zilio, Leonardo and Finatto, Maria Jos{\'e} Bocorny and Vieira, Renata},
+  book={Proceedings of the Second Workshop on Digital Humanities and Natural Language Processing (2nd DHandNLP 2022) co-located with International Conference on the Computational Processing of Portuguese (PROPOR 2022), Fortaleza, Brazil, 21st March, 2022},
+  pages={1-10},
   year={2022},
-  publisher={CEUR}
+  publisher={CEUR},
+  url = {https://ceur-ws.org/Vol-3128/paper10.pdf}
 }
 ```
