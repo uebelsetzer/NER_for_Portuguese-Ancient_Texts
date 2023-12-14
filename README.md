@@ -11,6 +11,7 @@ Paper:
   title={Named Entity Recognition Applied to Portuguese Texts from the XVIII Century},
   author={Zilio, Leonardo and Finatto, Maria Jos{\'e} B. and Vieira, Renata},
   book={Proceedings of the Second Workshop on Digital Humanities and Natural Language Processing (2nd DHandNLP 2022)},
+  pages={1--10},
   year={2022},
   publisher={CEUR}
 }
